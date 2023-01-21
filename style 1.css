@@ -1,0 +1,18 @@
+
+.title{ font-weight: bold;}
+.title{text-align: center;}
+.title{font-size: 60px;}
+.title{font-style: italic;}
+.center{display: block; margin-left: auto; margin-right:auto;}
+.center{height: 400; width:400px;}
+.center{border-radius: 50%;}
+.events{font-size: 35px;}
+.text{text-align: center; }
+.text{color: red;}
+.text{text-decoration: text-decoration-line;}
+.topic{font-size: 28px;}
+.topic{color: brown;}
+.about{font-size: 20px;}
+.heading{font-size:35px;}
+.ending{font-size: 28px;}
+*{background-image: url('https://media.visualstories.com/uploads/images/1/113/5408569-1280_481756166-election-debates-flat-isometric-vector_l.jpg');}
